@@ -1,0 +1,37 @@
+.editContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+}
+
+.formStyles{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.goBackButton{
+    display: flex;
+    background-color: #aa1c1c;
+    padding-right: 8px;
+    color: #efc2b3;
+    font-size: large;
+    border: none;
+}
+
+.btnSection{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.submitButton{
+    background-color: #2f45b1;
+    padding: 8px;
+    color: #efc2b3;
+    font-size: large;
+    border: none;
+    width: 70px;
+}
